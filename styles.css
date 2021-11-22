@@ -1,0 +1,35 @@
+.circle {
+  border-radius: 50%;
+  background-color: #28824f;
+  border: #000 1px solid;
+
+}
+.active{
+  color: #fff;
+}
+.clr{
+  color: #000;
+}
+.container{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper{
+position: absolute;
+top: 30%;
+}
+.heding{
+text-align: center;
+}
+img {
+  width: 280px;
+  height: 120px;
+}
+.search{
+  width: 500px;
+}
+.input-group {
+  border-radius: 30px;
+}
